@@ -36,24 +36,24 @@ const Header = () => {
                 </div>
 
                 <div className="gridProveedores">
-                    <a href="https://www.freeway.com.ar/"><img src={free} alt="Logo Freeway" /></a>
-                    <a href="https://www.delfos.tur.ar/home.xhtml"><img src={delfos} alt="Logo Delfos" /></a>
-                    <a href="https://www.ola.com.ar/agencia/material-para-redes"><img src={ola} alt="Logo Ola" /></a>
-                    <a href="https://www.juliatours.com.ar/index.php"><img src={julia} alt="Logo JuliaTours" /></a>
-                    <a href="https://www.europamundo.com/"><img src={europa} alt="Logo Europamundo" /></a>
-                    <a href="https://www.eurovips.com/"><img src={euro} alt="Eurovips" /></a>
-                    <a href="http://www.vantravel.com.ar/"><img src={van} alt="Logo Vantravel" /></a>
-                    <a href="https://www.tiendaleonmdq.com/"><img src={leon} alt="Logo MTL" /></a>
-                    <a href="https://www.jumping.com.ar/"><img src={jumping} alt="Logo Jumping" /></a>
-                    <img src={amadeus} alt="Logo Amadeus" />
-                    <a href="https://www.lowcost.com.ar/"><img src={low} alt="Logo Lowcost" /></a>
-                    <a href="https://www.kingmidas.com.ar/"><img src={midas} alt="Logo KingMidas" /></a>
+                    <a href="https://www.freeway.com.ar/" target="_blank"><img src={free} alt="Logo Freeway" /></a>
+                    <a href="https://www.delfos.tur.ar/home.xhtml"target="_blank"><img src={delfos} alt="Logo Delfos" /></a>
+                    <a href="https://www.ola.com.ar/agencia/material-para-redes"target="_blank"><img src={ola} alt="Logo Ola" /></a>
+                    <a href="https://www.juliatours.com.ar/index.php"target="_blank"><img src={julia} alt="Logo JuliaTours" /></a>
+                    <a href="https://www.europamundo.com/"target="_blank"><img src={europa} alt="Logo Europamundo" /></a>
+                    <a href="https://www.eurovips.com/"target="_blank"><img src={euro} alt="Eurovips" /></a>
+                    <a href="http://www.vantravel.com.ar/"target="_blank"><img src={van} alt="Logo Vantravel" /></a>
+                    <a href="https://www.tiendaleonmdq.com/"target="_blank"><img src={leon} alt="Logo MTL" /></a>
+                    <a href="https://www.jumping.com.ar/"target="_blank"><img src={jumping} alt="Logo Jumping" /></a>
+                    <img src={amadeus} alt="Logo Amadeus" target="_blank"/>
+                    <a href="https://www.lowcost.com.ar/"target="_blank"><img src={low} alt="Logo Lowcost" /></a>
+                    <a href="https://www.kingmidas.com.ar/"target="_blank"><img src={midas} alt="Logo KingMidas" /></a>
                     <div></div>
-                    <a href="https://www.ebooking.com.ar/#/"><img src={tosseli} alt="Logo Tosseli" /></a>
-                    <a href="https://rapelturismo.com.ar/#!/-inicio/"><img src={rapel} alt="Logo Rapel" /></a>
+                    <a href="https://www.ebooking.com.ar/#/"target="_blank"><img src={tosseli} alt="Logo Tosseli" /></a>
+                    <a href="https://rapelturismo.com.ar/#!/-inicio/"target="_blank"><img src={rapel} alt="Logo Rapel" /></a>
 
-                    <a href="https://agencias.assistcard.com/Home"><img src={assist} alt="Logo Assist Card" /></a>
-                    <a href="https://www.universal-assistance.com/ar-es/viaje-seguro?utm_source=google&utm_medium=cpc&utm_campaign=__MARCA%20Arg&utm_term=universal%20assistance&gad_source=1&gclid=Cj0KCQjwq86wBhDiARIsAJhuphl4O4i6C5au9Rgse1Kh3GnnsrIkhp-IfWgCZUDFaioiZuOX-7tg_cQaAovSEALw_wcB"><img src={universal} alt="Logo Universal" /></a>
+                    <a href="https://agencias.assistcard.com/Home"target="_blank"><img src={assist} alt="Logo Assist Card" /></a>
+                    <a href="https://www.universal-assistance.com/ar-es/viaje-seguro?utm_source=google&utm_medium=cpc&utm_campaign=__MARCA%20Arg&utm_term=universal%20assistance&gad_source=1&gclid=Cj0KCQjwq86wBhDiARIsAJhuphl4O4i6C5au9Rgse1Kh3GnnsrIkhp-IfWgCZUDFaioiZuOX-7tg_cQaAovSEALw_wcB"target="_blank"><img src={universal} alt="Logo Universal" /></a>
                     <div></div>
                 </div>
             </div>
