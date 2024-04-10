@@ -93,6 +93,7 @@ const Header = () => {
             <div className="flexCap">
                 <a download="Capacitacion Uganda" href="../uganda.pdf" className="btnCap">UGANDA</a>
                 <a download="Capacitacion Curacao" href="../Curacao.pdf" className="btnCap">CURACAO</a>
+                <a download="Capacitacion Egipto y Jordania" href="../egipto.pdf" className="btnCap">EGIPTO Y JORDANIA</a>
             </div>
             <h2 id="contacto" > CONTACTO</h2>
             <div className="contactFlex">
