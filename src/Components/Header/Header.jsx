@@ -32,6 +32,7 @@ const Header = () => {
                     <h1>OPERADORES</h1>
                     <a href="#ctas"><h1>CUENTAS</h1></a>
                     <a href="#capa"><h1>CAPACITACIONES</h1></a>
+                    <a href="#fly"><h1>FLYERS</h1></a>
                     <a href="#contacto"><h1>CONTACTO</h1></a>
                 </div>
 
@@ -89,11 +90,14 @@ const Header = () => {
                 </p>
             </div>
 
+         <h2 id="fly">FLYERS</h2>
+
             <h2 id="capa" >CAPACITACIONES</h2>
             <div className="flexCap">
                 <a download="Capacitacion Uganda" href="../uganda.pdf" className="btnCap">UGANDA</a>
                 <a download="Capacitacion Curacao" href="../Curacao.pdf" className="btnCap">CURACAO</a>
                 <a download="Capacitacion Egipto y Jordania" href="../egipto.pdf" className="btnCap">EGIPTO Y JORDANIA</a>
+                <a download="Capacitacion Bali" href="../bali.pdf" className="btnCap">BALI</a>
             </div>
             <h2 id="contacto" > CONTACTO</h2>
             <div className="contactFlex">
