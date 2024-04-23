@@ -46,7 +46,7 @@ const Header = () => {
                     <a href="https://www.tiendaleonmdq.com/" target="_blank"><img src={leon} alt="Logo MTL" /></a>
                     <a href="https://www.jumping.com.ar/" target="_blank"><img src={jumping} alt="Logo Jumping" /></a>
                     <img src={amadeus} alt="Logo Amadeus" target="_blank" />
-                    <a href="https://www.lowcost.com.ar/" target="_blank"><img src={low} alt="Logo Lowcost" /></a>
+                    <a href="https://www.lowcostturismo.tur.ar/" target="_blank"><img src={low} alt="Logo Lowcost" /></a>
                     <a href="https://www.kingmidas.com.ar/" target="_blank"><img src={midas} alt="Logo KingMidas" /></a>
                     <div></div>
                     <a href="https://www.ebooking.com.ar/#/" target="_blank"><img src={tosseli} alt="Logo Tosseli" /></a>
