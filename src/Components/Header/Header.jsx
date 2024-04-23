@@ -147,7 +147,7 @@ const Header = () => {
                         <a download="CATAMARCA INEDITA" href="../rap/CATAMARCA INEDITA.jpg" >CATAMARCA INEDITA</a>
                         <a download="ESCAPADA A IGUAZU" href="../rap/ESCAPADA A IGUAZU.jpg" >ESCAPADA A IGUAZU</a>
                         <a download="ESCAPADA LLAO LLAO" href="../rap/ESCAPADA LLAO LLAO.jpg" >ESCAPADA LLAO LLAO</a>
-                        <a download="ESQUEL TULIPANES" href="../rap/ESQUEL TULIPANES.jpg" >ESQUEL TULIPANES</a>
+                        <a download="ESQUEL TULIPANES" href="../rap/ESQUEL TULIPANES.png" >ESQUEL TULIPANES</a>
                         <a download="ESTEROS" href="../rap/ESTEROS.jpg" >ESTEROS</a>
                         <a download="NORTE ARGENTINO" href="../rap/NORTE ARGENTINO.jpg" >NORTE ARGENTINO</a>
                         <a download="SAN JUAN CON ENCANTO" href="../rap/SAN JUAN CON ENCANTO.jpg" >SAN JUAN CON ENCANTO</a>
@@ -162,6 +162,7 @@ const Header = () => {
                 <a download="Capacitacion Curacao" href="../Curacao.pdf" className="btnCap">CURACAO</a>
                 <a download="Capacitacion Egipto y Jordania" href="../egipto.pdf" className="btnCap">EGIPTO Y JORDANIA</a>
                 <a download="Capacitacion Bali" href="../bali.pdf" className="btnCap">BALI</a>
+                <a download="Capacitacion Kenia" href="../kenia.pdf" className="btnCap">KENIA</a>
             </div>
             <h2 id="contacto" > CONTACTO</h2>
             <div className="contactFlex">
