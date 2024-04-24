@@ -53,7 +53,7 @@ const Header = () => {
                     <a href="https://rapelturismo.com.ar/#!/-inicio/" target="_blank"><img src={rapel} alt="Logo Rapel" /></a>
 
                     <a href="https://agencias.assistcard.com/Home" target="_blank"><img src={assist} alt="Logo Assist Card" /></a>
-                    <a href="https://www.universal-assistance.com/ar-es/viaje-seguro?utm_source=google&utm_medium=cpc&utm_campaign=__MARCA%20Arg&utm_term=universal%20assistance&gad_source=1&gclid=Cj0KCQjwq86wBhDiARIsAJhuphl4O4i6C5au9Rgse1Kh3GnnsrIkhp-IfWgCZUDFaioiZuOX-7tg_cQaAovSEALw_wcB" target="_blank"><img src={universal} alt="Logo Universal" /></a>
+                    <a href="https://www.universal-assistance.com/ar-es/agencias" target="_blank"><img src={universal} alt="Logo Universal" /></a>
                     <div></div>
                 </div>
             </div>
