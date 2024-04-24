@@ -153,6 +153,17 @@ const Header = () => {
                         <a download="SAN JUAN CON ENCANTO" href="../rap/SAN JUAN CON ENCANTO.jpg" >SAN JUAN CON ENCANTO</a>
                         <a download="USHUAIA" href="../rap/USHUAIA.jpg" >USHUAIA</a>
                     </div>
+                    <div className="logoCap" >
+                        <img src={free} alt="" />
+                    </div>
+                    <div className="capFlex">
+                        <a download="DISNEY" href="../free/DISNEY.jpg" >DISNEY</a>
+                        <a download="PLAYA DEL CARMEN 15 WAY" href="../free/PLAYA DEL CARMEN 15 WAY.jpg" >PLAYA DEL CARMEN 15 WAY</a>
+                        <a download="SENDERO EUROPEO" href="../free/SENDERO EUROPEO.jpg" >SENDERO EUROPEO</a>
+                        <a download="SINGLE FEST CUBA" href="../free/SINGLE FEST CUBA.jpg" >SINGLE FEST CUBA</a>
+                        <a download="TURKIA Y GRECIA" href="../free/TURKIA Y GRECIA.jpg" >TURKIA Y GRECIA</a>
+                       
+                    </div>
                 </div>
             </div>
 
