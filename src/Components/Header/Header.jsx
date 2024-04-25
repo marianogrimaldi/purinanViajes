@@ -180,7 +180,10 @@ const Header = () => {
                 <a href="https://api.whatsapp.com/send?phone=5493416207110" target="blank">WPP MAJO</a>
                 <a href="https://api.whatsapp.com/send?phone=5493416836459" target="blank">WPP NATI</a>
                 <a href="https://api.whatsapp.com/send?phone=5493406421065" target="blank">WPP MARIAN</a>
-
+            </div>
+            <div className="redesFlex">
+                <a href="https://www.instagram.com/majopurinanviajes/"target="blank">@MAJOPURINANVIAJES</a>
+                <a href="http://www.majopurinan.tur.ar/"target="blank">WWW.MAJOPURINAN.TUR.AR</a>
             </div>
 
         </div>
