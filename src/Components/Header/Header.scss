@@ -5,6 +5,14 @@
     margin-bottom: 4rem;
 }
 
+@media screen and (max-width: 479px){
+    .flexLogo{
+        img{
+            width: 20rem;
+        }
+    }
+}
+
 .gridProveedores{
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -19,12 +27,30 @@
     }
 }
 
+@media screen and (max-width: 479px){
+    .gridProveedores{
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+
+        img{
+            width: 5rem;
+        }
+    }
+}
+
 h1, h2, h3{
     color: rgb(35, 173, 178);
     text-align: center;
     margin-bottom: 2rem;
     font-family:Arial, Helvetica, sans-serif;
     
+}
+
+@media screen and (max-width: 479px){
+    h1,h2,h3{
+        font-size: 2rem;
+       margin-bottom: 1rem;
+    }
 }
 
 a{
@@ -42,10 +68,22 @@ h2{
     margin-bottom: 2rem;
 }
 
+@media screen and (max-width: 479px){
+    p{
+        font-size: .8rem;
+    }
+}
+
 .flexCap{
     display: flex;
     justify-content: center;
     gap: 2rem;
+}
+
+@media screen and (max-width: 479px){
+    .flexCap{
+        flex-direction: column;
+    }
 }
 
 .btnCap{
@@ -57,10 +95,22 @@ h2{
     margin-bottom: 2rem;
 }
 
+@media screen and (max-width: 479px){
+    .btnCap{
+        text-align: center;
+    }
+}
+
 .titleFlex{
     display: flex;
     justify-content: center;
     gap: 2rem;
+}
+
+@media screen and (max-width: 479px){
+    .titleFlex{
+        flex-direction: column;
+    }
 }
 
 .contactFlex{
@@ -78,14 +128,18 @@ h2{
     display: flex;
     justify-content: center;
 
-
     img{
          width: 10rem;
          margin-top: 1rem;
          margin-bottom: 2rem;
          filter: drop-shadow(1px 1px 1px white);
     }
-   
+}
+
+@media screen and (max-width: 479px){
+    img{
+        width: 8rem;
+    }
 }
 
 .capFlex{
@@ -103,4 +157,14 @@ h2{
     a:hover{
         scale: 1.2;
     }
+}
+
+@media screen and (max-width: 479px){
+    .capFlex{
+         a{
+        font-size: .8rem;
+    }
+    }
+    
+   
 }
