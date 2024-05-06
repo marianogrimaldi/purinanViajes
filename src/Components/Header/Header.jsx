@@ -10,12 +10,13 @@ import tosseli from "../../assets/tosseli.png"
 import rapel from "../../assets/rapel.png"
 import assist from "../../assets/assist.svg"
 import universal from "../../assets/universal.png"
-
+import cont from "../../assets/logoCont.gif"
 import ola from "../../assets/ola.svg"
 import van from "../../assets/van.png"
 import leon from "../../assets/leon.png"
 import europa from "../../assets/europa.png"
-import amadeus from "../../assets/amadeus.jpg"
+import caracol from "../../assets/logoCaracol.png"
+import prestigio from "../../assets/logoPrest.jpg"
 import euro from "../../assets/euro.svg"
 import { NavLink } from "react-router-dom"
 
@@ -45,13 +46,14 @@ const Header = () => {
                     <a href="http://www.vantravel.com.ar/" target="_blank"><img src={van} alt="Logo Vantravel" /></a>
                     <a href="https://www.tiendaleonmdq.com/" target="_blank"><img src={leon} alt="Logo MTL" /></a>
                     <a href="https://www.jumping.com.ar/" target="_blank"><img src={jumping} alt="Logo Jumping" /></a>
-                    <img src={amadeus} alt="Logo Amadeus" target="_blank" />
+ <a href="https://www.ebooking.com.ar/#/" target="_blank"><img src={tosseli} alt="Logo Tosseli" /></a>
                     <a href="https://www.lowcostturismo.tur.ar/" target="_blank"><img src={low} alt="Logo Lowcost" /></a>
                     <a href="https://www.kingmidas.com.ar/" target="_blank"><img src={midas} alt="Logo KingMidas" /></a>
                     
-                    <a href="https://www.ebooking.com.ar/#/" target="_blank"><img src={tosseli} alt="Logo Tosseli" /></a>
+                                       <a href="https://www.contrastesturismo.tur.ar/"target="_blank"><img src={cont} alt="Logo Contrastes" /></a>
                     <a href="https://rapelturismo.com.ar/#!/-inicio/" target="_blank"><img src={rapel} alt="Logo Rapel" /></a>
-
+                    <a href="https://caracolturismo.tur.ar/"target="_blank"><img src={caracol} alt="Logo Caracol" /></a>
+                    <a href="https://www.prestigiosrl.com.ar/iTraffic_Prestigio.Clavis/"target="_blank"><img src={prestigio} alt="" /></a>
                     <a href="https://agencias.assistcard.com/Home" target="_blank"><img src={assist} alt="Logo Assist Card" /></a>
                     <a href="https://www.universal-assistance.com/ar-es/agencias" target="_blank"><img src={universal} alt="Logo Universal" /></a>
                     
