@@ -46,17 +46,17 @@ const Header = () => {
                     <a href="http://www.vantravel.com.ar/" target="_blank"><img src={van} alt="Logo Vantravel" /></a>
                     <a href="https://www.tiendaleonmdq.com/" target="_blank"><img src={leon} alt="Logo MTL" /></a>
                     <a href="https://www.jumping.com.ar/" target="_blank"><img src={jumping} alt="Logo Jumping" /></a>
- <a href="https://www.ebooking.com.ar/#/" target="_blank"><img src={tosseli} alt="Logo Tosseli" /></a>
+                    <a href="https://www.ebooking.com.ar/#/" target="_blank"><img src={tosseli} alt="Logo Tosseli" /></a>
                     <a href="https://www.lowcostturismo.tur.ar/" target="_blank"><img src={low} alt="Logo Lowcost" /></a>
                     <a href="https://www.kingmidas.com.ar/" target="_blank"><img src={midas} alt="Logo KingMidas" /></a>
-                    
-                                       <a href="https://www.contrastesturismo.tur.ar/"target="_blank"><img src={cont} alt="Logo Contrastes" /></a>
+
+                    <a href="https://www.contrastesturismo.tur.ar/" target="_blank"><img src={cont} alt="Logo Contrastes" /></a>
                     <a href="https://rapelturismo.com.ar/#!/-inicio/" target="_blank"><img src={rapel} alt="Logo Rapel" /></a>
-                    <a href="https://caracolturismo.tur.ar/"target="_blank"><img src={caracol} alt="Logo Caracol" /></a>
-                    <a href="https://www.prestigiosrl.com.ar/iTraffic_Prestigio.Clavis/"target="_blank"><img src={prestigio} alt="" /></a>
+                    <a href="https://caracolturismo.tur.ar/" target="_blank"><img src={caracol} alt="Logo Caracol" /></a>
+                    <a href="https://www.prestigiosrl.com.ar/iTraffic_Prestigio.Clavis/" target="_blank"><img src={prestigio} alt="" /></a>
                     <a href="https://agencias.assistcard.com/Home" target="_blank"><img src={assist} alt="Logo Assist Card" /></a>
                     <a href="https://www.universal-assistance.com/ar-es/agencias" target="_blank"><img src={universal} alt="Logo Universal" /></a>
-                    
+
                 </div>
             </div>
             <div >
@@ -164,7 +164,7 @@ const Header = () => {
                         <a download="SENDERO EUROPEO" href="../free/SENDERO EUROPEO.jpg" >SENDERO EUROPEO</a>
                         <a download="SINGLE FEST CUBA" href="../free/SINGLE FEST CUBA.jpg" >SINGLE FEST CUBA</a>
                         <a download="TURKIA Y GRECIA" href="../free/TURKIA Y GRECIA.jpg" >TURKIA Y GRECIA</a>
-                       
+
                     </div>
                 </div>
             </div>
@@ -176,6 +176,7 @@ const Header = () => {
                 <a download="Capacitacion Egipto y Jordania" href="../egipto.pdf" className="btnCap">EGIPTO Y JORDANIA</a>
                 <a download="Capacitacion Bali" href="../bali.pdf" className="btnCap">BALI</a>
                 <a download="Capacitacion Kenia" href="../kenia.pdf" className="btnCap">KENIA</a>
+                <a download="Capacitacion Japon y Corea" href="../japon.pdf" className="btnCap">JAPON Y COREA DEL SUR</a>
             </div>
             <h2 id="contacto" > CONTACTO</h2>
             <div className="contactFlex">
@@ -184,8 +185,8 @@ const Header = () => {
                 <a href="https://api.whatsapp.com/send?phone=5493406421065" target="blank">WPP MARIAN</a>
             </div>
             <div className="redesFlex">
-                <a href="https://www.instagram.com/majopurinanviajes/"target="blank">@MAJOPURINANVIAJES</a>
-                <a href="http://www.majopurinan.tur.ar/"target="blank">WWW.MAJOPURINAN.TUR.AR</a>
+                <a href="https://www.instagram.com/majopurinanviajes/" target="blank">@MAJOPURINANVIAJES</a>
+                <a href="http://www.majopurinan.tur.ar/" target="blank">WWW.MAJOPURINAN.TUR.AR</a>
             </div>
 
         </div>
