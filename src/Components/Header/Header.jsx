@@ -177,6 +177,8 @@ const Header = () => {
                 <a download="Capacitacion Bali" href="../bali.pdf" className="btnCap">BALI</a>
                 <a download="Capacitacion Kenia" href="../kenia.pdf" className="btnCap">KENIA</a>
                 <a download="Capacitacion Japon y Corea" href="../japon.pdf" className="btnCap">JAPON Y COREA DEL SUR</a>
+                <a download="Capacitacion Vietnam" href="../vietnam.pdf" className="btnCap">VIETNAM</a>
+                <a download="Capacitacion Tailandia" href="../tailandia.pdf" className="btnCap">TAILANDIA</a>
             </div>
             <h2 id="contacto" > CONTACTO</h2>
             <div className="contactFlex">
