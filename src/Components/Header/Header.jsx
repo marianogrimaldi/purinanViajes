@@ -6,6 +6,8 @@ import julia from "../../assets/julia.gif"
 import jumping from "../../assets/jumping.png"
 import low from "../../assets/low.png"
 import midas from "../../assets/midas.png"
+import medi from "../../assets/medi.png"
+import setil from "../../assets/setil.png"
 import tosseli from "../../assets/tosseli.png"
 import rapel from "../../assets/rapel.png"
 import assist from "../../assets/assist.svg"
@@ -49,6 +51,8 @@ const Header = () => {
                     <a href="https://www.ebooking.com.ar/#/" target="_blank"><img src={tosseli} alt="Logo Tosseli" /></a>
                     <a href="https://www.lowcostturismo.tur.ar/" target="_blank"><img src={low} alt="Logo Lowcost" /></a>
                     <a href="https://www.kingmidas.com.ar/" target="_blank"><img src={midas} alt="Logo KingMidas" /></a>
+                    <a href="https://www.mediterraneaturismo.tur.ar/" target="_blank"><img src={medi} alt="Logo Mediterranea" /></a>
+                    <a href="https://www.setilviajes.com/" target="_blank"><img src={setil} alt="Logo Setil" /></a>
 
                     <a href="https://www.contrastesturismo.tur.ar/" target="_blank"><img src={cont} alt="Logo Contrastes" /></a>
                     <a href="https://rapelturismo.com.ar/#!/-inicio/" target="_blank"><img src={rapel} alt="Logo Rapel" /></a>
@@ -179,6 +183,8 @@ const Header = () => {
                 <a download="Capacitacion Japon y Corea" href="../japon.pdf" className="btnCap">JAPON Y COREA DEL SUR</a>
                 <a download="Capacitacion Vietnam" href="../vietnam.pdf" className="btnCap">VIETNAM</a>
                 <a download="Capacitacion Tailandia" href="../tailandia.pdf" className="btnCap">TAILANDIA</a>
+                <a download="Capacitacion Malasia" href="../malasia.pdf" className="btnCap">MALASIA</a>
+                <a download="AP Disney" href="../disney.pdf" className="btnCap">AP DISNEY</a>
             </div>
             <h2 id="contacto" > CONTACTO</h2>
             <div className="contactFlex">
