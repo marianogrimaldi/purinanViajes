@@ -20,6 +20,7 @@ import europa from "../../assets/europa.png"
 import caracol from "../../assets/logoCaracol.png"
 import prestigio from "../../assets/logoPrest.jpg"
 import euro from "../../assets/euro.svg"
+import geist from "../../assets/geist.png"
 import { NavLink } from "react-router-dom"
 
 
@@ -51,6 +52,7 @@ const Header = () => {
                     <a href="https://www.ebooking.com.ar/#/" target="_blank"><img src={tosseli} alt="Logo Tosseli" /></a>
                     <a href="https://www.lowcostturismo.tur.ar/" target="_blank"><img src={low} alt="Logo Lowcost" /></a>
                     <a href="https://www.kingmidas.com.ar/" target="_blank"><img src={midas} alt="Logo KingMidas" /></a>
+                    <a href="https://www.geist.tur.ar/" target="_blank"><img src={geist} alt="Logo Geist" /></a>
                     <a href="https://www.mediterraneaturismo.tur.ar/" target="_blank"><img src={medi} alt="Logo Mediterranea" /></a>
                     <a href="https://www.setilviajes.com/" target="_blank"><img src={setil} alt="Logo Setil" /></a>
 
